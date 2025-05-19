@@ -1,0 +1,26 @@
+body {
+  background-color:lavender ;
+}
+h1 {
+  color: darkred;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: left;
+  font-family: DUBAI
+}
+p{
+  color: black;
+  text-align: left;
+  font-family: cursive
+}
+table{
+  color: black;
+  text-align: left;
+  font-family: dubai;
+  border: 
+}
+.underline {
+  text-decoration: underline
+}

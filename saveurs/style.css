@@ -1,0 +1,16 @@
+h1{color:darkolivegreen; font-family:papyrus}
+h3{color:darkolivegreen; font-family:papyrus}
+h2{font-family:arial}
+p{font-family:heretica}
+body { background-image: url("fruits.jpg"); background-size: cover }
+a{color: saddlebrown;font-family:helvetica}
+
+table{ border-collapse: collapse;
+     border: 2px solid rgb(26, 61, 35)}
+thead,tfoot{background-color: rgb(101,156,105)}
+tbody{background-color: rgb(175,201,177)}
+th,td{border:2px solid rgb(26, 61, 35);padding:8px 10px;}
+
+h4{font-family:helvetica; font-size: 10px}
+
+
